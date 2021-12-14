@@ -47,6 +47,14 @@ input the parameters from command line:
 
 The .mov files displaying the result of this program has been attached under the 'result' folder.
 
+2D noise:
+![](/Users/yugao/Desktop/2D.png)
+
+3D noise:
+![This is a alt text.](/image/sample.png "This is a sample image.")
+
+4D noise:
+![This is a alt text.](/image/sample.png "This is a sample image.")
 
 ## Discovery
 
