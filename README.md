@@ -40,7 +40,7 @@ More details about OpenSimplex: https://github.com/lmas/opensimplex
 | nsteps        | change the width of each wave            |
 
 input the parameters from command line:
-![link](ttps://user-images.githubusercontent.com/60117688/145937327-07adec81-5f43-412e-a0ba-d568572cff56.png)
+![link](https://user-images.githubusercontent.com/60117688/145937327-07adec81-5f43-412e-a0ba-d568572cff56.png)
 
 
 ## Display
