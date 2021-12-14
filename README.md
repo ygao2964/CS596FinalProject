@@ -52,10 +52,10 @@ The .mov files displaying the result of this program has been attached under the
 
 
 3D noise:
-![link](<img width="949" alt="3D" src="https://user-images.githubusercontent.com/60117688/145939133-108a44d8-c558-4529-abae-7963fec9c84a.png">)
+![link](https://user-images.githubusercontent.com/60117688/145939133-108a44d8-c558-4529-abae-7963fec9c84a.png)
 
 4D noise:
-![link](<img width="950" alt="4D" src="https://user-images.githubusercontent.com/60117688/145939158-cc7fb3cd-dc4c-4f8c-b300-ea01aff8b05a.png">)
+![link](https://user-images.githubusercontent.com/60117688/145939158-cc7fb3cd-dc4c-4f8c-b300-ea01aff8b05a.png)
 
 ## Discovery
 
