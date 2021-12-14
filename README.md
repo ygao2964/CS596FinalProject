@@ -48,13 +48,14 @@ input the parameters from command line:
 The .mov files displaying the result of this program has been attached under the 'result' folder.
 
 2D noise:
-![](/Users/yugao/Desktop/2D.png)
+![link](https://user-images.githubusercontent.com/60117688/145939078-5651eae8-45ff-420f-9e5a-90c6e3ef1fbc.png)
+
 
 3D noise:
-![This is a alt text.](/image/sample.png "This is a sample image.")
+![link](<img width="949" alt="3D" src="https://user-images.githubusercontent.com/60117688/145939133-108a44d8-c558-4529-abae-7963fec9c84a.png">)
 
 4D noise:
-![This is a alt text.](/image/sample.png "This is a sample image.")
+![link](<img width="950" alt="4D" src="https://user-images.githubusercontent.com/60117688/145939158-cc7fb3cd-dc4c-4f8c-b300-ea01aff8b05a.png">)
 
 ## Discovery
 
